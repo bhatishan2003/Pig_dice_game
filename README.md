@@ -12,7 +12,7 @@ The first player to reach **20  points** on their GLOBAL score wins the game.
 
 ### 1. Dice Roll
 
-![Dice Roll](https://[link-to-your-image1](https://drive.google.com/file/d/1_wkvq95oeNKN0EsiuM_tBtTR7JKfDUYk/view?usp=drive_link)
+![Dice Roll]([https://[link-to-your-image1](https://drive.google.com/file/d/1_wkvq95oeNKN0EsiuM_tBtTR7JKfDUYk/view?usp=drive_link)])
 
 ### 2. Global and Round Scores
 
